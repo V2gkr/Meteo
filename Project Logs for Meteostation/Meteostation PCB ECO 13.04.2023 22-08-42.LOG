@@ -1,0 +1,25 @@
+Added Component: Designator=U(QFN50P400X400X95-21N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Nordic Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "NRF24L01+"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "QFN-20 Nordic Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/NRF24L01%2B/Nordic%20Semiconductor%20ASA/view-part/1023904/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CE Pin=U-1
+Added Pin To Net: NetName=CSN Pin=U-2
+Added Pin To Net: NetName=SPI_SCK Pin=U-3
+Added Pin To Net: NetName=SPI_MOSI Pin=U-4
+Added Pin To Net: NetName=SPI_MISO Pin=U-5
+Added Pin To Net: NetName=nRF_IRQ Pin=U-6
+Added Pin To Net: NetName=GND Pin=U-8
+Added Pin To Net: NetName=GND Pin=U-14
+Added Pin To Net: NetName=GND Pin=U-16
+Added Pin To Net: NetName=GND Pin=U-17
+Added Pin To Net: NetName=GND Pin=U-20
+Added Pin To Net: NetName=GND Pin=U-21
+Added Pin To Net: NetName=NetU_9 Pin=U-9
+Added Pin To Net: NetName=NetU_9 Pin=U-10
+Added Net: Name=NetU_9
+Added Member To Class: ClassName=Meteostation Member=Component U NRF24L01
+Added Room: Name=Meteostation
